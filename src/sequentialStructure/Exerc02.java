@@ -7,7 +7,7 @@ public class Exerc02 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
-        double base, altura, area, perimetro, diagonalCalc, diagonal;
+        double base, altura, area, perimetro, diagonal;
         base = sc.nextDouble();
         altura = sc.nextDouble();
 
