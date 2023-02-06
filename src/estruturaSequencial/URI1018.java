@@ -1,4 +1,4 @@
-package sequentialStructure;
+package estruturaSequencial;
 
 import java.text.DecimalFormat;
 import java.util.Locale;

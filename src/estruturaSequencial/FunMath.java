@@ -1,4 +1,4 @@
-package sequentialStructure;
+package estruturaSequencial;
 
 public class FunMath {
 
